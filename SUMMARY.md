@@ -32,6 +32,7 @@
 * [⚡ Critical Infrastructure](ensurance/critical-infrastructure.md)
 * [Ecological Ensurance](ensurance/ecological-ensurance.md)
 * [Ensurance Example](ensurance/ensurance-example.md)
+* [📓 ENSURANCE BINDER](https://binder.basin.global/)
 
 ## Protocol
 
