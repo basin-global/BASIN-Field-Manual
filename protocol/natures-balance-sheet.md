@@ -19,5 +19,5 @@ BASIN is dedicated to constructing Nature's Balance Sheet, with the BASIN Protoc
 ***
 
 {% hint style="success" %}
-In no way does the BASIN Protocol supplant initiatives aimed at creating a ‘ledger for planet Earth’. While Regen Network and Hedera concentrate on carbon and biodiversity credits, and other ecological assets, BASIN prioritizes the concept of Earth 'owning itself' with the goal of Half Earth. Ecological assets can and should be issued on top of and part of the real assets that are the foundation of the BASIN Protocol.
+**In no way does the BASIN Protocol supplant initiatives aimed at creating a ‘ledger for planet Earth’.** While Regen Network and Hedera concentrate on ecological assets including carbon and biodiversity credits, BASIN prioritizes the concept of Earth 'owning itself' with the goal of Half Earth. Ecological assets can and should be issued on top of and part of the real assets that are the foundation of the BASIN Protocol.
 {% endhint %}
