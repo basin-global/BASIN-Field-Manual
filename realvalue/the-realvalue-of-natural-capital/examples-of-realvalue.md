@@ -1,6 +1,6 @@
 # Examples of RealValue
 
-Here are selected expressions of RealValue. The most current iterations can be found at [BASIN Dispatches](https://dispatches.basin.global/).
+Here are selected expressions of RealValue. **The most current iterations can be found in the** [**BASIN Ensurance Binder**](https://binder.basin.global/)**.**
 
 ## Pilot Sites
 
