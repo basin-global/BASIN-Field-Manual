@@ -12,7 +12,7 @@ We [welcome](contact.md) your questions and comments as well.
 
 Nature is already priced:\
 \
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (1).png>)
 
 </details>
 
