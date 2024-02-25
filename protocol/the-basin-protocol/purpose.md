@@ -2,12 +2,54 @@
 
 A PURPOSE in the BASIN Protocol are either **a ecosystem type, ecosystem service, species, cause, or motivation**.
 
-### Examples of PURPOSE
+{% hint style="success" %}
+Explore [purpose.basin activity **here**](https://confluence.basin.global/explore/POLYGON:0xc31b90964a5062376a62e2c772a6c4d422cd73b2?search=purpose)
+{% endhint %}
 
-_in progress_
+### Sub Types & Examples of PURPOSE
 
-### Purpose sub-types
+<details>
 
-include but are not limited to:
+<summary>The 14 <a href="../../core-benefits/core-benefits-framework/stocks-ecosystems/ecosystem-definitions.md">BASIN Ecosystems</a></summary>
 
-_in progress_
+* cultivated-developed.basin&#x20;
+* urban-open-space.basin&#x20;
+* rural-open-space.basin
+* rivers-lakes.basin&#x20;
+* inland-wetlands.basin&#x20;
+* tropical-forests.basin&#x20;
+* temperate-forests.basin&#x20;
+* boreal-forests.basin&#x20;
+* coastal-systems.basin&#x20;
+* grasslands.basin&#x20;
+* shrublands.basin&#x20;
+* polar-alpine.basin&#x20;
+* deserts.basin&#x20;
+* subterranean.basin
+
+</details>
+
+<details>
+
+<summary>The 18 <a href="broken-reference">Core Benefits of Natural Capital</a></summary>
+
+* clean-air.basin&#x20;
+* clean-water.basin&#x20;
+* water-abundance.basin&#x20;
+* healthy-soils.basin&#x20;
+* climate-stability.basin&#x20;
+* risk-resilience.basin&#x20;
+* erosion-control.basin&#x20;
+* pest-disease-control.basin&#x20;
+* pollination.basin&#x20;
+* habitat.basin&#x20;
+* medicinal-genetic.basin&#x20;
+* recreation-experiences.basin&#x20;
+* research-learning.basin&#x20;
+* art-inspiration.basin&#x20;
+* aesthetic-sensory.basin&#x20;
+* existence-legacy.basin&#x20;
+* resource-utilization.basin&#x20;
+* land-utilization.basin
+
+</details>
