@@ -14,7 +14,7 @@ Explore [place.basin activity **here**](https://confluence.basin.global/explore/
 * tarpon-corner.basin
 * 83-wetlands.basin
 
-### PLACE Sub Types
+### PLACE Subtypes
 
 * bioregion
 * ecoregion

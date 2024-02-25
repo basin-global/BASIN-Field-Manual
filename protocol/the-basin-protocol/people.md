@@ -16,7 +16,7 @@ Explore [people.basin activity **here**](https://confluence.basin.global/explore
 * foundation.basin
 * avlt.basin
 
-### PLACE Sub Types
+### PLACE Subtypes
 
 * person
 * company

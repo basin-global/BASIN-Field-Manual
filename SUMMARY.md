@@ -42,6 +42,8 @@
   * [PLACE](protocol/the-basin-protocol/place.md)
   * [PURPOSE](protocol/the-basin-protocol/purpose.md)
   * [PEOPLE](protocol/the-basin-protocol/people.md)
+* [Model](protocol/model.md)
+* [Incentives](protocol/incentives.md)
 * [Contracts](protocol/contracts/README.md)
   * [.BASIN](protocol/contracts/.basin.md)
   * [STREAMS](protocol/contracts/streams.md)
