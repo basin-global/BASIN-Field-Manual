@@ -22,6 +22,8 @@ The cross-chain EVM 0x of each .basin can be found on 0xSplits, OpenSea, or Rari
 The "receiver" address is where tokens are sent to for the Split. This is also referred to as the "Send To" address.
 {% endhint %}
 
+## Primary Bundles
+
 {% tabs %}
 {% tab title="Ecosytems" %}
 ## Ecosystem Bundle
@@ -80,7 +82,77 @@ This bundle funds Climate Resilience BASIN's individually.
 
 <table><thead><tr><th width="145">chain</th><th>receiver address</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>Polygon</td><td>0x94472eE394721352c927A0654e10D12F9febeE77</td><td><a href="https://app.splits.org/accounts/0x94472eE394721352c927A0654e10D12F9febeE77/?chainId=137">https://app.splits.org/accounts/0x94472eE394721352c927A0654e10D12F9febeE77/?chainId=137</a></td></tr></tbody></table>
 {% endtab %}
+
+{% tab title="Biodiversity" %}
+## Biodiversity Bundle
+
+This bundle funds Biodiversity BASIN's individually.
+
+| .basin                                          |
+| ----------------------------------------------- |
+| adaptation.basin                                |
+| biocomplexity.basin                             |
+| genetic-diversity.basin                         |
+| species-diversity.basin                         |
+| ecosystem-diversity.basin                       |
+| complexity-of-nature.basin                      |
+| ecosystem-structure.basin                       |
+| ecosystem-function.basin                        |
+| ecosystem-composition.basin                     |
+| ecosystem-connectivity.basin                    |
+| functional-diversity.basin                      |
+| ecological-diversity.basin                      |
+| abiotic.basin                                   |
+| biotic.basin                                    |
+| biodiversity.basin                              |
+| resilience.basin                                |
+| Adaptation - BASIN BUNDLE                       |
+| Ecosystems - BASIN BUNDLE                       |
+| Core Benefits of Natural Capital - BASIN BUNDLE |
+| Resilience - BASIN BUNDLE                       |
+
+## Receiver Address (Send To)
+
+<table><thead><tr><th width="145">chain</th><th>receiver address</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>Polygon</td><td>0xA8e43EDB622574CaC6cEaDc332b6fb7aE7F22Cb4</td><td><a href="https://app.splits.org/accounts/0xA8e43EDB622574CaC6cEaDc332b6fb7aE7F22Cb4/?chainId=137">https://app.splits.org/accounts/0xA8e43EDB622574CaC6cEaDc332b6fb7aE7F22Cb4/?chainId=137</a></td></tr></tbody></table>
+{% endtab %}
+
+{% tab title="Adaptation" %}
+## Climate Adaptation Bundle
+
+This bundle funds Climate Adaptation BASIN's individually.
+
+| .basin                                          |
+| ----------------------------------------------- |
+| climate-adaptation.basin                        |
+| biodiversity.basin                              |
+| resilience.basin                                |
+| Resilience - BASIN BUNDLE                       |
+| adaptive-capacity.basin                         |
+| wildlife-corridors.basin                        |
+| road-ecology.basin                              |
+| wildfires.basin                                 |
+| floods.basin                                    |
+| drought.basin                                   |
+| desertification.basin                           |
+| land-use.basin                                  |
+| health.basin                                    |
+| heat.basin                                      |
+| water.basin                                     |
+| energy.basin                                    |
+| infrastructure.basin                            |
+| erosion.basin                                   |
+| Ecosystems - BASIN BUNDLE                       |
+| Core Benefits of Natural Capital - BASIN BUNDLE |
+| Adaptation - BASIN BUNDLE                       |
+
+## Receiver Address (Send To)
+
+<table><thead><tr><th width="145">chain</th><th>receiver address</th><th data-type="content-ref"></th></tr></thead><tbody><tr><td>Polygon</td><td>0xB10d02185B9551c222E7076262BD939b0cA2bF3d</td><td><a href="https://app.splits.org/accounts/0xB10d02185B9551c222E7076262BD939b0cA2bF3d/?chainId=137">https://app.splits.org/accounts/0xB10d02185B9551c222E7076262BD939b0cA2bF3d/?chainId=137</a></td></tr></tbody></table>
+{% endtab %}
 {% endtabs %}
 
+## Custom Bundles
 
+Anyone can make a BASIN BUNDLE or we can make one for you. Here are some examples of custom bundles:
 
+_in edits_
