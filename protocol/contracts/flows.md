@@ -8,7 +8,7 @@ We have exciting things in the works using .basin's cross-chain 0x's (Stock) acc
 
 ## BASIN BUNDLES
 
-A BASIN BUNDLE is a collection of .basin's that is often times funded as a group. i.e. the 14 BASIN Ecosystems, the 18 Core Benefits of Natural Capital, Climate Resilience, major watersheds, bioregions, at risk species, etc.
+A BASIN BUNDLE is a collection of .basin's that is often times funded as a group. i.e. the 14 BASIN Ecosystems, the 18 Core Benefits of Natural Capital, Climate Resilience, major watersheds, bioregions, at risk species, Industry Risks & Dependencies, etc.
 
 The following tables list the .basin's in each bundle and the chain "receiver" address of the corresponding 0xSplit.
 
@@ -19,7 +19,7 @@ The cross-chain EVM 0x of each .basin can be found on 0xSplits, OpenSea, or Rari
 
 ### Receiver Address
 
-The "receiver" address is where tokens are sent to for the Split. This is also referred to as the "Send To" address.
+The "receiver" address is where tokens are sent to to fund the bundle. This is also referred to as the "Send To" address.
 {% endhint %}
 
 ## Primary Bundles
@@ -155,4 +155,4 @@ This bundle funds Climate Adaptation BASIN's individually.
 
 Anyone can make a BASIN BUNDLE or we can make one for you. Here are some examples of custom bundles:
 
-<table><thead><tr><th width="153">Bundle Name</th><th>Send To 0x</th><th data-type="content-ref">Link</th></tr></thead><tbody><tr><td>Ventura</td><td>0xad2A27701af543d73A6B5CA8daEe2A7558D99c68</td><td><a href="https://app.splits.org/accounts/0xad2A27701af543d73A6B5CA8daEe2A7558D99c68/?chainId=137">https://app.splits.org/accounts/0xad2A27701af543d73A6B5CA8daEe2A7558D99c68/?chainId=137</a></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width="255">Bundle Name</th><th width="328">Send To 0x</th><th data-type="content-ref">Link</th></tr></thead><tbody><tr><td>Ventura</td><td>0xad2A27701af543d73A6B5CA8daEe2A7558D99c68</td><td><a href="https://app.splits.org/accounts/0xad2A27701af543d73A6B5CA8daEe2A7558D99c68/?chainId=137">https://app.splits.org/accounts/0xad2A27701af543d73A6B5CA8daEe2A7558D99c68/?chainId=137</a></td></tr><tr><td>Outdoor Apparel &#x26; Gear Industry - Risks &#x26; Dependencies</td><td>0x8C82797519609C9ce660D22a898d520fC3e5F5fE</td><td><a href="https://app.splits.org/accounts/0x8C82797519609C9ce660D22a898d520fC3e5F5fE/?chainId=137">https://app.splits.org/accounts/0x8C82797519609C9ce660D22a898d520fC3e5F5fE/?chainId=137</a></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
