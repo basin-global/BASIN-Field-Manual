@@ -2,6 +2,10 @@
 
 ## **Dependencies on Ecosystem Services in the Outdoor Apparel and Gear Industry**
 
+{% hint style="success" %}
+One-click funding of nature-related Risks and Dependencies for the Outdoor Apparel industry can be done via [BASIN FLOWS](../../../protocol/contracts/flows.md#custom-bundles).
+{% endhint %}
+
 ### Sector Classification
 
 <table><thead><tr><th width="160">Framework</th><th>Primary</th><th>Secondary</th></tr></thead><tbody><tr><td>GICS</td><td>Consumer Discretionary</td><td>Textiles, Apparel &#x26; Luxury Goods</td></tr><tr><td>NACE Rev. 2</td><td>Manufacturing; Wholesale/Retail</td><td>Transportation; Utilities &#x26; Waste</td></tr><tr><td>SASB</td><td>Consumer Goods</td><td>Apparel, Accessories &#x26; Footwear</td></tr></tbody></table>
