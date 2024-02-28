@@ -2,6 +2,19 @@
 
 ## **Dependencies on Ecosystem Services in the Outdoor Apparel and Gear Industry**
 
+### Sector Classification
+
+| Class       |   |   |
+| ----------- | - | - |
+| SASB        |   |   |
+| GICS        |   |   |
+| NACE Rev. 2 |   |   |
+| NAICS       |   |   |
+
+
+
+
+
 Companies within the Outdoor Apparel and Gear Industry, operating in the Consumer Discretionary sector (GICS), are intricately linked to the natural environment and have deep dependencies on ecosystem services.&#x20;
 
 ### **ENCORE**

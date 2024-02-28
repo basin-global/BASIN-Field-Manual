@@ -134,4 +134,5 @@
     * [Cap Rate Overview](appendix/selected-value-types-and-valuation-methods/real-asset-values/cap-rate-overview.md)
   * [Ecosystem Service Values](appendix/selected-value-types-and-valuation-methods/ecosystem-service-values.md)
 * [Ecosystem Services Dependencies & Risks](appendix/ecosystem-services-dependencies-and-risks/README.md)
+  * [Industry Classifications](appendix/ecosystem-services-dependencies-and-risks/industry-classifications.md)
   * [Outdoor Apparel & Gear Industry](appendix/ecosystem-services-dependencies-and-risks/outdoor-apparel-and-gear-industry.md)
