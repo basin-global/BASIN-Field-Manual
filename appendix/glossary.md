@@ -1,8 +1,8 @@
----
-description: under construction
----
-
 # Glossary
+
+{% hint style="warning" %}
+This section is an evolving work in process.
+{% endhint %}
 
 Compilation of regularly used terms and phrases in BASIN. Third-party sources are in _italics_ as applicable.
 
@@ -278,6 +278,10 @@ Externalities are a key concept in economics and refer to the unintended effects
 
 ## G
 
+### **GICS (Global Industry Classification Standard)**
+
+Developed jointly by MSCI and Standard & Poor's, GICS is a comprehensive industry classification system that categorizes companies into sectors, industry groups, industries, and sub-industries. It is widely used in the financial sector for portfolio management, research, and market analysis.
+
 ## H
 
 ### Half Earth
@@ -285,6 +289,14 @@ Externalities are a key concept in economics and refer to the unintended effects
 The "Half Earth" concept, proposed by biologist E.O. Wilson, suggests that to safeguard Earth's biodiversity and ecological health, we should set aside and protect at least half of the planet's terrestrial and marine ecosystems for conservation purposes. The idea is to designate these areas as protected reserves, free from significant human interference, to preserve a wide range of species and their habitats. By dedicating 50% of the Earth's land and oceans to conservation, the "Half Earth" concept aims to mitigate the ongoing loss of biodiversity, protect ecosystems, and ensure the long-term survival of countless species. This ambitious goal underscores the importance of prioritizing conservation efforts and adopting sustainable practices to address the interconnected challenges of biodiversity loss and habitat degradation.
 
 ## I
+
+### **ICB**
+
+see [ICB](ecosystem-services-dependencies-and-risks/industry-classifications/#icb-industry-classification-benchmark)
+
+### **ISIC 4**
+
+see [ISIC 4](ecosystem-services-dependencies-and-risks/industry-classifications/#isic-4-international-standard-industrial-classification-of-all-economic-activities-revision-4)
 
 ## J
 
@@ -295,6 +307,14 @@ The "Half Earth" concept, proposed by biologist E.O. Wilson, suggests that to sa
 ## M
 
 ## N
+
+### **NACE Rev. 2 (Statistical Classification of Economic Activities in the European Community)**
+
+NACE Rev. 2 is the European standard for classifying economic activities, offering a system to categorize entities based on their business operations. It is essential for statistical analysis, policy-making, and economic studies within the EU.
+
+### NAICS
+
+see [NAICS](ecosystem-services-dependencies-and-risks/industry-classifications/#naics-north-american-industry-classification-system)
 
 ## O
 
@@ -314,6 +334,10 @@ Funded by the Climate Collective, this report delves into merging Real World Ass
 
 ## S
 
+### **SASB (Sustainability Accounting Standards Board**
+
+SASB provides industry-specific standards for reporting sustainability information relevant to financial performance. It identifies sustainability topics that are likely to affect financial condition or operating performance and provides standardized disclosure recommendations.
+
 ### **SEED Biocomplexity**
 
 A standardized biodiversity index developed by Crowther Lab at ETH Zürich, measuring the complexity of nature on a 0-1 scale. It evaluates **Genetic diversity within species**, **Species diversity between species**, and **Ecosystem diversity across ecosystems**. This framework provides a comprehensive approach to quantify and assess the global biodiversity, facilitating informed decision-making for conservation, restoration, and sustainable management of natural resources by comparing [biocomplexity](glossary.md#biocomplexity) against reference ecosystems to understand ecological health impacts.
@@ -323,6 +347,10 @@ A standardized biodiversity index developed by Crowther Lab at ETH Zürich, meas
 Stacking refers to the practice of accumulating various funding sources or payments from different stakeholders to support a specific ecosystem service or environmental benefit. It involves aggregating financial incentives to enhance the financial sustainability of conservation or restoration projects, allowing for more substantial environmental outcomes. Stacking Example: A forest conservation project secures funding from various sources: a government for carbon sequestration, a foundation for biodiversity, and a water utility for water purification. Related: [Bundling](glossary.md#bundling)
 
 ## T
+
+### **TRBC**
+
+see [TRBC](ecosystem-services-dependencies-and-risks/industry-classifications/#trbc-thomson-reuters-business-classification)
 
 ## U
 
