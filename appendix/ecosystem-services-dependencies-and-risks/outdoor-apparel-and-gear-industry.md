@@ -4,20 +4,11 @@
 
 ### Sector Classification
 
-| Class       |   |   |
-| ----------- | - | - |
-| SASB        |   |   |
-| GICS        |   |   |
-| NACE Rev. 2 |   |   |
-| NAICS       |   |   |
+<table><thead><tr><th width="160">Framework</th><th>Primary</th><th>Secondary</th></tr></thead><tbody><tr><td>GICS</td><td>Consumer Discretionary</td><td>Textiles, Apparel &#x26; Luxury Goods</td></tr><tr><td>NACE Rev. 2</td><td>Manufacturing; Wholesale/Retail</td><td>Transportation; Utilities &#x26; Waste</td></tr><tr><td>SASB</td><td>Consumer Goods</td><td>Apparel, Accessories &#x26; Footwear</td></tr></tbody></table>
 
+Companies within the Outdoor Apparel and Gear Industry are intricately linked to the natural environment and have deep dependencies on ecosystem services.&#x20;
 
-
-
-
-Companies within the Outdoor Apparel and Gear Industry, operating in the Consumer Discretionary sector (GICS), are intricately linked to the natural environment and have deep dependencies on ecosystem services.&#x20;
-
-### **ENCORE**
+## **ENCORE**
 
 The ENCORE (Exploring Natural Capital Opportunities, Risks, and Exposure) tool provides a detailed view of the direct environmental dependencies:
 
@@ -26,7 +17,7 @@ The ENCORE (Exploring Natural Capital Opportunities, Risks, and Exposure) tool p
 * **Mitigates Direct Impacts**: Ecosystem services such as bioremediation, dilution, and filtration by habitats and species significantly reduce the industry's environmental footprint. The role of the atmosphere, ocean geomorphology, and water ecosystems in dilution processes is also key.
 * **Protection from Disruption**: Ecosystem services offer vital protection against natural disruptions, including habitat-based flood and storm protection and mass stabilization and erosion control through land geomorphology and soils.
 
-### **Swiss Re Biodiversity Ecosystem Services Index**
+## **Swiss Re Biodiversity Ecosystem Services Index**
 
 The Swiss Re BES Index further highlights critical dependencies across the industry's value chain:
 
