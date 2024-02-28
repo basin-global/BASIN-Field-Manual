@@ -2,9 +2,9 @@
 
 ## **Dependencies on Ecosystem Services in the Outdoor Apparel and Gear Industry**
 
-Companies within the Outdoor Apparel and Gear Industry, operating in the Consumer Discretionary (GICS) sector, are intricately linked to the natural environment. Utilizing tools such as ENCORE and insights from Swiss Re's Biodiversity Ecosystem Services Index, our analysis reveals the deep dependencies these companies have on ecosystem services. This examination is pivotal for identifying environmental risks and opportunities for promoting sustainability.
+Companies within the Outdoor Apparel and Gear Industry, operating in the Consumer Discretionary sector (GICS), are intricately linked to the natural environment and have deep dependencies on ecosystem services.&#x20;
 
-**ENCORE Tool Insights**
+### **ENCORE**
 
 The ENCORE (Exploring Natural Capital Opportunities, Risks, and Exposure) tool provides a detailed view of the direct environmental dependencies:
 
@@ -13,24 +13,20 @@ The ENCORE (Exploring Natural Capital Opportunities, Risks, and Exposure) tool p
 * **Mitigates Direct Impacts**: Ecosystem services such as bioremediation, dilution, and filtration by habitats and species significantly reduce the industry's environmental footprint. The role of the atmosphere, ocean geomorphology, and water ecosystems in dilution processes is also key.
 * **Protection from Disruption**: Ecosystem services offer vital protection against natural disruptions, including habitat-based flood and storm protection and mass stabilization and erosion control through land geomorphology and soils.
 
-**Swiss Re Biodiversity Ecosystem Services Index Contributions**
+### **Swiss Re Biodiversity Ecosystem Services Index**
 
-The Swiss Re Biodiversity Ecosystem Services Index further highlights critical dependencies across the industry's value chain:
+The Swiss Re BES Index further highlights critical dependencies across the industry's value chain:
 
 * **Manufacturing**: Essential services like pollination, air quality and local climate stabilization, water security, soil fertility, erosion control, and timber provision are vital for sustainable manufacturing.
 * **Wholesale/Retail**: The sustainability of products is enhanced by maintaining habitat intactness, in addition to the ecosystem services crucial for manufacturing.
 * **Transportation and Storage**: Efficient logistics and storage solutions depend on ecosystem services, such as air quality management, water security, and erosion control.
 * **Utilities and Waste Management**: Sustainable waste management practices are underpinned by similar dependencies on air quality, water security, and erosion control.
 
-**Source Notes**
-
-This analysis draws on methodologies from ENCORE and Swiss Re, focusing on the direct potential dependencies and impacts of production processes on ecosystem services and natural capital assets. It underscores the Outdoor Apparel and Gear Industry's reliance on natural ecosystems, highlighting the importance of preserving these resources for future sustainability and resilience.
-
-## Applied to Core Benefits and Ecosystems
+## Applied to Core Benefits & Ecosystems
 
 The Outdoor Apparel and Gear Industry, by its nature, interacts with a broad range of ecosystems, primarily through the sourcing of materials, the environmental impact of its manufacturing and supply chain processes, and the intended use of its products. However, its operations and the ecosystems it directly influences or relies upon can vary based on the materials sourced, the location of manufacturing facilities, and the focus of the product line. Below is an analysis of the ENCORE and Swiss RE dependencies aligned with the [Core Benefits of Natural Capital](broken-reference) and the [BASIN Ecosystems](../../core-benefits/core-benefits-framework/stocks-ecosystems/ecosystem-definitions.md) the industry likely operates in or impacts:
 
-#### ENCORE and Swiss RE Dependencies Matched with Ecosystem Services:
+### Dependencies on the Core Benefits of Natural Capital
 
 * **Clean Air**: Matches with air quality and local climate dependencies.
 * **Clean Water**: Directly relates to water quality and water security.
@@ -43,7 +39,7 @@ The Outdoor Apparel and Gear Industry, by its nature, interacts with a broad ran
 * **Pollination**: Directly mentioned in dependencies.
 * **Habitat**: Relates to habitat intactness and the sourcing of fibers & materials.
 
-#### Ecosystems Operated In or Impacted:
+### Dependencies on Ecosystems Operated In or Impacted
 
 * **Cultivated & Developed**: The industry sources materials that may come from these areas, especially for natural fibers.
 * **Urban Open Space**: Less directly involved but may impact through retail locations and urban consumer engagement.
@@ -61,3 +57,7 @@ The Outdoor Apparel and Gear Industry, by its nature, interacts with a broad ran
 * **Subterranean**: Less directly involved, although mining for minerals (for technical gear) can impact these areas.
 
 This industry’s footprint and reliance on ecosystem services underscore the importance of sustainable practices across all operational and impact levels. By understanding these dependencies and the ecosystems involved, the Outdoor Apparel and Gear Industry can better align its operations with environmental conservation and sustainability goals.
+
+## **Source Notes**
+
+This analysis draws on public methodologies and data from ENCORE and Swiss Re, focusing on the direct potential dependencies and impacts of production processes on ecosystem services and natural capital assets. It underscores the Outdoor Apparel and Gear Industry's reliance on natural ecosystems, highlighting the importance of preserving these resources for resilience and adaptation.
