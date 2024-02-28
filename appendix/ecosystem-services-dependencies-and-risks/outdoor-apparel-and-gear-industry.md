@@ -1,6 +1,6 @@
 # Outdoor Apparel & Gear Industry
 
-**Dependencies on Ecosystem Services in the Outdoor Apparel and Gear Industry**
+## **Dependencies on Ecosystem Services in the Outdoor Apparel and Gear Industry**
 
 Companies within the Outdoor Apparel and Gear Industry, operating in the Consumer Discretionary (GICS) sector, are intricately linked to the natural environment. Utilizing tools such as ENCORE and insights from Swiss Re's Biodiversity Ecosystem Services Index, our analysis reveals the deep dependencies these companies have on ecosystem services. This examination is pivotal for identifying environmental risks and opportunities for promoting sustainability.
 
@@ -25,3 +25,39 @@ The Swiss Re Biodiversity Ecosystem Services Index further highlights critical d
 **Source Notes**
 
 This analysis draws on methodologies from ENCORE and Swiss Re, focusing on the direct potential dependencies and impacts of production processes on ecosystem services and natural capital assets. It underscores the Outdoor Apparel and Gear Industry's reliance on natural ecosystems, highlighting the importance of preserving these resources for future sustainability and resilience.
+
+## Applied to Core Benefits and Ecosystems
+
+The Outdoor Apparel and Gear Industry, by its nature, interacts with a broad range of ecosystems, primarily through the sourcing of materials, the environmental impact of its manufacturing and supply chain processes, and the intended use of its products. However, its operations and the ecosystems it directly influences or relies upon can vary based on the materials sourced, the location of manufacturing facilities, and the focus of the product line. Below is an analysis of the ENCORE and Swiss RE dependencies aligned with the [Core Benefits of Natural Capital](broken-reference) and the [BASIN Ecosystems](../../core-benefits/core-benefits-framework/stocks-ecosystems/ecosystem-definitions.md) the industry likely operates in or impacts:
+
+#### ENCORE and Swiss RE Dependencies Matched with Ecosystem Services:
+
+* **Clean Air**: Matches with air quality and local climate dependencies.
+* **Clean Water**: Directly relates to water quality and water security.
+* **Water Abundance**: Aligns with water security and the maintenance of water flow.
+* **Healthy Soils**: Ties to soil fertility and erosion control.
+* **Climate**: Broadly relates to local climate stabilization through various ecosystem services.
+* **Resilience**: While not directly listed, resilience can be inferred from flood and storm protection, mass stabilization, and erosion control services.
+* **Erosion Control**: Directly mentioned in dependencies.
+* **Biocontrol**: While not directly listed, biocontrol could be related to bioremediation efforts.
+* **Pollination**: Directly mentioned in dependencies.
+* **Habitat**: Relates to habitat intactness and the sourcing of fibers & materials.
+
+#### Ecosystems Operated In or Impacted:
+
+* **Cultivated & Developed**: The industry sources materials that may come from these areas, especially for natural fibers.
+* **Urban Open Space**: Less directly involved but may impact through retail locations and urban consumer engagement.
+* **Rural Open Space**: Involved in the sourcing of materials and possibly in conservation efforts.
+* **Rivers & Lakes**: Water sourcing and impact on water quality place these ecosystems as relevant.
+* **Inland Wetlands**: Important for water filtration and biodiversity, which can affect material sourcing and environmental strategies.
+* **Tropical Forest**: Source of specific natural fibers and materials; also a focus for conservation efforts due to biodiversity.
+* **Temperate Forest**: Similar to tropical forests in terms of sourcing and conservation.
+* **Boreal Forest**: Less commonly interacted with but could be involved in material sourcing or conservation.
+* **Coastal Systems**: Impact through pollution and conservation efforts, especially related to ocean plastics.
+* **Grasslands**: Can be involved in material sourcing, especially for natural fibers.
+* **Shrublands**: Less directly involved but may be impacted by or benefit from conservation efforts.
+* **Polar & Alpine**: Directly relevant for product testing, use, and sometimes material sourcing (e.g., wool).
+* **Desert**: May influence through material sourcing (e.g., certain natural fibers) and product use.
+* **Subterranean**: Less directly involved, although mining for minerals (for technical gear) can impact these areas.
+
+This industry’s footprint and reliance on ecosystem services underscore the importance of sustainable practices across all operational and impact levels. By understanding these dependencies and the ecosystems involved, the Outdoor Apparel and Gear Industry can better align its operations with environmental conservation and sustainability goals.
