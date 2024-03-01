@@ -10,7 +10,7 @@ Companies within the Tobacco Industry are intricately linked to the natural envi
 
 ## **ENCORE**
 
-The ENCORE (Exploring Natural Capital Opportunities, Risks, and Exposure) tool provides a detailed view of the direct environmental dependencies and the risk levels.
+The ENCORE (Exploring Natural Capital Opportunities, Risks, and Exposure) tool provides a detailed view of the direct ecological dependencies and the risk levels.
 
 | Dependencies               | Materiality Risk Rating                   |
 | -------------------------- | ----------------------------------------- |
@@ -22,7 +22,7 @@ The ENCORE (Exploring Natural Capital Opportunities, Risks, and Exposure) tool p
 
 ## **Swiss Re Biodiversity Ecosystem Services Index**
 
-The Swiss Re BES Index further highlights critical dependencies across the industry's value chain.
+The Swiss Re BES Index further highlights critical ecological dependencies across the industry's value chain.
 
 ### Manufacturing Sector Ecological Dependencies
 
