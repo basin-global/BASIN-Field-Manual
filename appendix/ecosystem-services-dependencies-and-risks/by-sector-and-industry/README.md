@@ -7,3 +7,7 @@ Industries are ordered based on the S\&P Ecosystem Footprint, prioritizing secto
 ## GICS Sectors by Ecosystem Footprint
 
 <figure><img src="../../../.gitbook/assets/footprint-docs.png" alt=""><figcaption><p><a href="https://www.spglobal.com/esg/solutions/nature">source</a></p></figcaption></figure>
+
+## Impact & Dependency Risk
+
+<figure><img src="../../../.gitbook/assets/s&#x26;p unep ratings.png" alt=""><figcaption><p>Compilation of S&#x26;P UNEP Public Data</p></figcaption></figure>
