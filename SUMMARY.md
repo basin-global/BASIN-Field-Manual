@@ -149,6 +149,6 @@
     * [Communication Services](appendix/ecosystem-services-dependencies-and-risks/by-sector-and-industry/communication-services.md)
     * [Health Care](appendix/ecosystem-services-dependencies-and-risks/by-sector-and-industry/health-care.md)
     * [Archive](appendix/ecosystem-services-dependencies-and-risks/by-sector-and-industry/archive/README.md)
-      * [Outdoor Apparel & Gear Industry](appendix/ecosystem-services-dependencies-and-risks/by-sector-and-industry/archive/outdoor-apparel-and-gear-industry.md)
       * [Food & Beverage](appendix/ecosystem-services-dependencies-and-risks/by-sector-and-industry/archive/food-and-beverage/README.md)
         * [Tobacco](appendix/ecosystem-services-dependencies-and-risks/by-sector-and-industry/archive/food-and-beverage/tobacco.md)
+        * [Outdoor Apparel & Gear Industry](appendix/ecosystem-services-dependencies-and-risks/by-sector-and-industry/archive/food-and-beverage/outdoor-apparel-and-gear-industry.md)
