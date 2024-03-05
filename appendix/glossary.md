@@ -292,11 +292,11 @@ The "Half Earth" concept, proposed by biologist E.O. Wilson, suggests that to sa
 
 ### **ICB**
 
-see [ICB](ecosystem-services-dependencies-and-risks/industry-classifications/#icb-industry-classification-benchmark)
+see [ICB](ecosystem-services-dependencies-and-risks/industry-classifications.md#icb-industry-classification-benchmark)
 
 ### **ISIC 4**
 
-see [ISIC 4](ecosystem-services-dependencies-and-risks/industry-classifications/#isic-4-international-standard-industrial-classification-of-all-economic-activities-revision-4)
+see [ISIC 4](ecosystem-services-dependencies-and-risks/industry-classifications.md#isic-4-international-standard-industrial-classification-of-all-economic-activities-revision-4)
 
 ## J
 
@@ -314,7 +314,7 @@ NACE Rev. 2 is the European standard for classifying economic activities, offeri
 
 ### NAICS
 
-see [NAICS](ecosystem-services-dependencies-and-risks/industry-classifications/#naics-north-american-industry-classification-system)
+see [NAICS](ecosystem-services-dependencies-and-risks/industry-classifications.md#naics-north-american-industry-classification-system)
 
 ## O
 
@@ -350,7 +350,7 @@ Stacking refers to the practice of accumulating various funding sources or payme
 
 ### **TRBC**
 
-see [TRBC](ecosystem-services-dependencies-and-risks/industry-classifications/#trbc-thomson-reuters-business-classification)
+see [TRBC](ecosystem-services-dependencies-and-risks/industry-classifications.md#trbc-thomson-reuters-business-classification)
 
 ## U
 
