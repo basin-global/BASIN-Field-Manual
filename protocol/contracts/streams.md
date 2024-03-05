@@ -1,6 +1,6 @@
 # STREAMS
 
-STREAMS are the flows of value between BASIN's.&#x20;
+STREAMS are the unit of account and value in the BASIN Protocol.&#x20;
 
 As ERC-1155 contracts, STREAMS are semi-fungible and represent the unique and expansive value of each token type, but are also 1:1 certificates of the BASIN PROTOCOL. As more than just tokens, BASIN STREAMS flow financial and other forms of value from protocol activity through .basin’s based on quantity of STREAMS held.
 
