@@ -3,7 +3,7 @@
 ## **Dependencies on Ecosystem Services in the Outdoor Apparel and Gear Industry**
 
 {% hint style="success" %}
-One-click funding of nature-related Risks and Dependencies for the Outdoor Apparel industry can be done via [BASIN FLOWS](../../../protocol/contracts/flows.md#custom-bundles).
+One-click funding of nature-related Risks and Dependencies for the Outdoor Apparel industry can be done via [BASIN FLOWS](../../../../../protocol/contracts/flows.md#custom-bundles).
 {% endhint %}
 
 ### Sector Classification
@@ -32,7 +32,7 @@ The Swiss Re BES Index further highlights critical dependencies across the indus
 
 ## Applied to Core Benefits & Ecosystems
 
-The Outdoor Apparel and Gear Industry, by its nature, interacts with a broad range of ecosystems, primarily through the sourcing of materials, the environmental impact of its manufacturing and supply chain processes, and the intended use of its products. However, its operations and the ecosystems it directly influences or relies upon can vary based on the materials sourced, the location of manufacturing facilities, and the focus of the product line. Below is an analysis of the ENCORE and Swiss RE dependencies aligned with the [Core Benefits of Natural Capital](broken-reference) and the [BASIN Ecosystems](../../../core-benefits/core-benefits-framework/stocks-ecosystems/ecosystem-definitions.md) the industry likely operates in or impacts:
+The Outdoor Apparel and Gear Industry, by its nature, interacts with a broad range of ecosystems, primarily through the sourcing of materials, the environmental impact of its manufacturing and supply chain processes, and the intended use of its products. However, its operations and the ecosystems it directly influences or relies upon can vary based on the materials sourced, the location of manufacturing facilities, and the focus of the product line. Below is an analysis of the ENCORE and Swiss RE dependencies aligned with the [Core Benefits of Natural Capital](broken-reference) and the [BASIN Ecosystems](../../../../../core-benefits/core-benefits-framework/stocks-ecosystems/ecosystem-definitions.md) the industry likely operates in or impacts:
 
 ### Dependencies on the Core Benefits of Natural Capital
 
