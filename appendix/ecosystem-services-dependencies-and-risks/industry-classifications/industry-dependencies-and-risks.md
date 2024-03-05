@@ -22,15 +22,25 @@ These tools and frameworks represent the leading efforts in addressing the natur
 
 This tool is designed to help organizations, particularly in the financial sector, understand their natural capital risks and dependencies. It categorizes how business sectors and processes impact nature, focusing on lending, underwriting, and investments in high-risk industries. ENCORE introduces users to nature-related financial disclosure frameworks, including a special biodiversity module for agriculture and mining sectors.
 
+#### Natural Capital Assets and Ecosystem Services Industry Dependencies
+
+<figure><img src="../../../.gitbook/assets/encore - flow chart.png" alt=""><figcaption></figcaption></figure>
+
 ### S\&P Nature Risk Profile
 
 Launched in collaboration with the UN Environment Programme, this methodology aids the financial sector in measuring and managing nature-related risks. It provides analytics on nature impacts and dependencies, aligning with the TNFD disclosure framework. The approach includes the Ecosystem Footprint metric, combining land impact, ecosystem degradation, and significance to evaluate a company's impact on biodiversity and ecosystem services.
+
+#### Ecosystem Dependency Score
+
+<figure><img src="../../../.gitbook/assets/s&#x26;p.png" alt=""><figcaption></figcaption></figure>
 
 ### Swiss Re BES Index
 
 The Biodiversity and Ecosystem Services Index evaluates the dependency of economic sectors on nature and assesses countries' exposure to biodiversity and ecosystem service decline. This index supports the reinsurance business case and measures nature's value, identifying sectors most reliant on natural capital.
 
-<figure><img src="../../../.gitbook/assets/Swiss Re BES -docs.png" alt=""><figcaption><p>Compiled from public Swiss Re data</p></figcaption></figure>
+#### Sector Dependency
+
+<figure><img src="../../../.gitbook/assets/swiss-re-bes-2.png" alt=""><figcaption></figcaption></figure>
 
 ### InVEST
 
