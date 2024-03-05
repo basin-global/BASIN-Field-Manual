@@ -135,6 +135,7 @@
   * [Ecosystem Service Values](appendix/selected-value-types-and-valuation-methods/ecosystem-service-values.md)
 * [Ecosystem Services Dependencies & Risks](appendix/ecosystem-services-dependencies-and-risks/README.md)
   * [Industry Classifications](appendix/ecosystem-services-dependencies-and-risks/industry-classifications/README.md)
+    * [Industry Dependencies & Risks](appendix/ecosystem-services-dependencies-and-risks/industry-classifications/industry-dependencies-and-risks.md)
     * [Food & Beverage](appendix/ecosystem-services-dependencies-and-risks/industry-classifications/food-and-beverage/README.md)
       * [Tobacco](appendix/ecosystem-services-dependencies-and-risks/industry-classifications/food-and-beverage/tobacco.md)
     * [Outdoor Apparel & Gear Industry](appendix/ecosystem-services-dependencies-and-risks/industry-classifications/outdoor-apparel-and-gear-industry.md)
