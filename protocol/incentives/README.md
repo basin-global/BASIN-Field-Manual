@@ -6,7 +6,7 @@ As a member operated protocol, incentives in BASIN are being designed around com
 
 We consider these indicators, as well as others, in our incentive design:
 
-* CO2 PPM
+* CO2 PPM - Keeling Curve
 * Biocomplexity Scores
 * Living Planet Index
 * 30x30 and Half-Earth
@@ -16,3 +16,4 @@ We consider these indicators, as well as others, in our incentive design:
 * NASA’s Land Use and Land Cover Change (LCLUC) Program Metrics
 * Heat Index & Wet Bulb Globe Temperature (WBGT)
 * Certificates of Ensurance Floor Price
+* Industry & Sector Nature Risk & Dependencies - see [BASIN FLOWS](../contracts/flows/)

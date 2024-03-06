@@ -37,4 +37,4 @@ b) using $ values:&#x20;
 
 They both say the same thing about this:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

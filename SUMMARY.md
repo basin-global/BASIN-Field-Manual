@@ -43,11 +43,13 @@
   * [PURPOSE](protocol/the-basin-protocol/purpose.md)
   * [PEOPLE](protocol/the-basin-protocol/people.md)
 * [Model](protocol/model.md)
-* [Incentives](protocol/incentives.md)
+* [Incentives](protocol/incentives/README.md)
+  * [CO2 PPM - Keeling Curve](protocol/incentives/co2-ppm-keeling-curve.md)
 * [Contracts](protocol/contracts/README.md)
   * [.BASIN](protocol/contracts/.basin.md)
   * [STREAMS](protocol/contracts/streams.md)
-  * [FLOWS](protocol/contracts/flows.md)
+  * [FLOWS](protocol/contracts/flows/README.md)
+    * [Lifestyle & Fashion](protocol/contracts/flows/lifestyle-and-fashion.md)
 
 ## Dossier
 
@@ -149,6 +151,6 @@
     * [Communication Services](appendix/ecosystem-services-dependencies-and-risks/by-sector-and-industry/communication-services.md)
     * [Health Care](appendix/ecosystem-services-dependencies-and-risks/by-sector-and-industry/health-care.md)
     * [Archive](appendix/ecosystem-services-dependencies-and-risks/by-sector-and-industry/archive/README.md)
+      * [Outdoor Apparel & Gear Industry](appendix/ecosystem-services-dependencies-and-risks/by-sector-and-industry/archive/outdoor-apparel-and-gear-industry.md)
       * [Food & Beverage](appendix/ecosystem-services-dependencies-and-risks/by-sector-and-industry/archive/food-and-beverage/README.md)
         * [Tobacco](appendix/ecosystem-services-dependencies-and-risks/by-sector-and-industry/archive/food-and-beverage/tobacco.md)
-        * [Outdoor Apparel & Gear Industry](appendix/ecosystem-services-dependencies-and-risks/by-sector-and-industry/archive/food-and-beverage/outdoor-apparel-and-gear-industry.md)
