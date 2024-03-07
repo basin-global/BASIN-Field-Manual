@@ -15,9 +15,7 @@ This FLOW is based on the industry risks and dependencies of:
 
 ## BASIN FLOW Account&#x20;
 
-| FLOW                         | Receiver/Send To | Buy FLOW Certificates |
-| ---------------------------- | ---------------- | --------------------- |
-| lifestyle-fashion-flow.basin | 0x...(in edits)  | (add confluence www)  |
+<table><thead><tr><th width="294">FLOW</th><th>Receiver/Send To</th><th>Buy FLOW Certificates</th></tr></thead><tbody><tr><td>lifestyle-fashion.basin-flow</td><td>0x...(in edits)</td><td>(add confluence www)</td></tr></tbody></table>
 
 ## FLOW Splits
 
