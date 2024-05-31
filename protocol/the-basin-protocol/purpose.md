@@ -2,10 +2,6 @@
 
 A PURPOSE in the BASIN Protocol are either **a ecosystem type, ecosystem service, species, cause, or motivation**.
 
-{% hint style="success" %}
-Explore [purpose.basin activity **here**](https://confluence.basin.global/explore/POLYGON:0xc31b90964a5062376a62e2c772a6c4d422cd73b2?search=purpose)
-{% endhint %}
-
 ### Subtypes & Examples of PURPOSE
 
 <details>

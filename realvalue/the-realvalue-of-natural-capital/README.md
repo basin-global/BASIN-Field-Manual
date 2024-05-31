@@ -38,4 +38,4 @@ The RealValue metrics and indicator can be linked to any assortment of ecologica
 
 Before diving into the details of Ecological Polygons and RealValues, here are some [examples of RealValue and Natural Cap Rates](examples-of-realvalue.md).
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p><a href="examples-of-realvalue.md">Examples of RealValue</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p><a href="examples-of-realvalue.md">Examples of RealValue</a></p></figcaption></figure>
