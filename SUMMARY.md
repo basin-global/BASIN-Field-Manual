@@ -57,7 +57,7 @@
 * [Manifesto](dossier/manifesto.md)
 * [Soundtrack](dossier/soundtrack.md)
 * [Contact](dossier/contact.md)
-* [CONFLUENCE](https://confluence.basin.global/)
+* [CONFLUENCE](http://confluence.basin.global/)
 * [DISPATCHES](https://dispatches.basin.global/)
 * [BINDER](https://binder.basin.global/)
 * [Other Projects](dossier/other-projects/README.md)
