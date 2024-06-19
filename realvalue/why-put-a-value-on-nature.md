@@ -19,7 +19,7 @@ These two quotes ground us in the _**why**_:
 
 
 
-The RealValue of Natural Capital expresses the value nature provides in a language everyone understands: dollars.
+The RealValue of Natural Capital expresses the value nature in a language everyone understands: dollars.
 
 ***
 
