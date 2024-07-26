@@ -20,4 +20,4 @@ STREAMS are our ERC-1155 contracts.
 
 ### nature hyperstructure
 
-This is a collective art experiment on Zora with all proceeds going directly into .basin's via [FLOWS](flows/).
+This is a collective art experiment on Zora with all proceeds going directly into .basin's via [FLOWS](flow/).

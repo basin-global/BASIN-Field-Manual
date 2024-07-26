@@ -48,8 +48,8 @@
 * [Contracts](protocol/contracts/README.md)
   * [.BASIN](protocol/contracts/.basin.md)
   * [STREAMS](protocol/contracts/streams.md)
-  * [FLOWS](protocol/contracts/flows/README.md)
-    * [Lifestyle & Fashion](protocol/contracts/flows/lifestyle-and-fashion.md)
+  * [FLOW](protocol/contracts/flow/README.md)
+    * [Lifestyle & Fashion](protocol/contracts/flow/lifestyle-and-fashion.md)
 
 ## Dossier
 

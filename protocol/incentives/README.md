@@ -16,4 +16,4 @@ We consider these indicators, as well as others, in our incentive design:
 * NASA’s Land Use and Land Cover Change (LCLUC) Program Metrics
 * Heat Index & Wet Bulb Globe Temperature (WBGT)
 * Certificates of Ensurance Floor Price
-* Industry & Sector Nature Risk & Dependencies - see [BASIN FLOWS](../contracts/flows/)
+* Industry & Sector Nature Risk & Dependencies - see [BASIN FLOWS](../contracts/flow/)
