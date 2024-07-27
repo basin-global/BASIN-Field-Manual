@@ -135,6 +135,7 @@
   * [Real Asset Values](appendix/selected-value-types-and-valuation-methods/real-asset-values/README.md)
     * [Cap Rate Overview](appendix/selected-value-types-and-valuation-methods/real-asset-values/cap-rate-overview.md)
   * [Ecosystem Service Values](appendix/selected-value-types-and-valuation-methods/ecosystem-service-values.md)
+* [Ecological Indicators & Metrics](appendix/ecological-indicators-and-metrics.md)
 * [Ecosystem Services Dependencies & Risks](appendix/ecosystem-services-dependencies-and-risks/README.md)
   * [Industry Classifications](appendix/ecosystem-services-dependencies-and-risks/industry-classifications.md)
   * [Industry Dependencies & Risks](appendix/ecosystem-services-dependencies-and-risks/industry-dependencies-and-risks.md)
