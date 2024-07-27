@@ -24,4 +24,10 @@ Anthropocentric Values are quantified based on the Ecological Polygon's actual o
 
 ### Ecological Indicators
 
-Dollar values can be linked to any assortment of ecological metrics, variables, indicators and indices, both quantitative and qualitative, to assess overall ecosystem state, function, and health including biodiversity.
+Dollar values can be linked to any assortment of [ecological metrics, variables, indicators and indices](../../../appendix/ecological-indicators-and-metrics.md), both quantitative and qualitative, to assess overall ecosystem state, function, and health including biodiversity.
+
+{% hint style="success" %}
+See BASIN's 250+ Ecological Indicators:
+
+[ecological-indicators-and-metrics.md](../../../appendix/ecological-indicators-and-metrics.md "mention")
+{% endhint %}
