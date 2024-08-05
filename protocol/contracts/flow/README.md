@@ -10,7 +10,7 @@ FLOW is both a noun and verb. As a noun FLOW is any ERC20, ERC1155, or ERC721. A
 
 Any ERC20 can flow through the protocol. As land stewards, project developers, and most people/orgs want to get paid in "real" money we are focused on USDC, DAI, WETH, GLO etc. Carbon currencies like NCT, BCT, CHAR, MOSS etc and other ecological assets or regenerative money can also flow: any ERC20 on any EVM chain!
 
-### Nature-based Currency
+### Nature-based Currency: $ENSURE
 
 The Stocks and Flows of Natural Capital are inseparable. They are two sides of the same coin per se. To express this interconnectedness we have built **$ENSURE, a nature-based currency**. &#x20;
 
@@ -30,6 +30,29 @@ ENSURE is cross chain EVM. Provenance is on BASE and EVM supply is managed permi
 
 <table><thead><tr><th width="135">Relayer</th><th>Manager</th></tr></thead><tbody><tr><td><strong>Axelar ITS</strong></td><td>0xF29D33e99F770caC53Aad2CE125711329804A76a</td></tr></tbody></table>
 
-{% hint style="warning" %}
-1155 and 721 sections in edits. We have exciting things in the works using .basin's cross-chain 0x's accounts and our 1155 contracts including but not limited to value streaming, liquid splits, and semi-autonomous agents that rebalance portfolios.&#x20;
-{% endhint %}
+## ERC1155 & ERC721
+
+BASIN Accounts can hold _any_ 1155 or 721 in any quantity.&#x20;
+
+We also have our own [1155's](../streams.md) and [721's](../.basin.md) that are part of the BASIN Protocol.
+
+## Spits and Sablier
+
+A key part of the BASIN Protocol uses Splits and Sablier to FLOW value though the protocol.&#x20;
+
+### Splits
+
+Splits are baked into our Certificates of Ensurance at the contract level. (i.e. see Splits section of any STREAM on Zora) Splits automatically fund pre-defined BASIN Accounts.
+
+#### Examples
+
+[nature.flow](https://app.splits.org/accounts/0xa187F8CBdd36D63967c33f5BD4dD4B9ECA51270e/?chainId=8453) is the to level Splits contract for the BASIN Protocol and currently live on Base, Arb, and Zora.
+
+[bioregion.flow](https://app.splits.org/accounts/0x7c6c6D96Ce47e8C44a08cE9Ec8cCa79969Bd76c1/?chainId=8453) funds 185 bioregions and currently live on Base and Arb.&#x20;
+
+### Sablier
+
+We are working with the Sablier team to build an "Ensurance Escrow" contract that holds a real asset as collateral until the the Ensurance Policy Premium is paid and once paid the asset it transferred to the Protocol to be held in perpetuity entrust.
+
+Sablier also has an "open stream" contract in the works that will fund nature.flow in perpetuity.
+
