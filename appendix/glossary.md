@@ -298,6 +298,14 @@ see [ICB](ecosystem-services-dependencies-and-risks/industry-classifications.md#
 
 see [ISIC 4](ecosystem-services-dependencies-and-risks/industry-classifications.md#isic-4-international-standard-industrial-classification-of-all-economic-activities-revision-4)
 
+### Instrumental Value
+
+associated with an entity that serves to achieve a human end, interest or preference. Instrumental value includes economic values, regardless whether the entity is directly or indirectly used, or not used (existence and bequest values). _IPBES (2019), Global assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Brondízio, E. S., Settele, J., Díaz, S., Ngo, H. T. (eds). IPBES secretariat, Bonn, Germany. 1144 pages. ISBN: 978-3-947851-20-1_
+
+### Intrinsic Value
+
+the value of an entity (e.g., an organism, an ecological process) independent of how it relates to humans. _IPBES (2019), Global assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Brondízio, E. S., Settele, J., Díaz, S., Ngo, H. T. (eds). IPBES secretariat, Bonn, Germany. 1144 pages. ISBN: 978-3-947851-20-1_
+
 ## J
 
 ## K
@@ -327,6 +335,10 @@ Elinor Ostrom was a distinguished American political economist and scholar known
 ## Q
 
 ## R
+
+### **Relational Value**
+
+the meaningfulness of relationships, including the relationships among humans and nature and among humans, including across generations, via nature (Chan et al., 2016). These values are attached to the entity itself in ways that make it not substitutable, hence not serving an instrumental or utilitarian perspective (O’Neill, 2017), and represent what people consider meaningful about nature (e.g., attachment, responsibility, commitment). Relational values can also be associated with relationships with nature towards achieving a good life, e.g., when choosing “the right thing to do” or in the context of a “meaningful life.” (Pascual et al., 2017). _IPBES (2019), Global assessment report of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services, Brondízio, E. S., Settele, J., Díaz, S., Ngo, H. T. (eds). IPBES secretariat, Bonn, Germany. 1144 pages. ISBN: 978-3-947851-20-1_
 
 ### **RWA x ReFi Report**
 
