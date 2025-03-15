@@ -64,6 +64,7 @@
   * [RWA x ReFi Report](dossier/other-projects/rwa-x-refi-report.md)
   * [Core Benefits Label](dossier/other-projects/core-benefits-label.md)
 * [Formalities](dossier/formalities/README.md)
+  * [Privacy](dossier/formalities/privacy.md)
   * [License](dossier/formalities/license.md)
   * [Authors](dossier/formalities/authors.md)
   * [Disclaimer](dossier/formalities/disclaimer.md)
