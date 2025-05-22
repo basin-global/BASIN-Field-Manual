@@ -4,9 +4,13 @@ A PURPOSE in the BASIN Protocol are either **a ecosystem type, ecosystem service
 
 ### Subtypes & Examples of PURPOSE
 
+{% hint style="info" %}
+note: these have been converted to .ensurance accounts. ie marine-systems.ensurance
+{% endhint %}
+
 <details>
 
-<summary>The 14 <a href="../../core-benefits/core-benefits-framework/stocks-ecosystems/ecosystem-definitions.md">BASIN Ecosystems</a></summary>
+<summary>The 15 <a href="../../core-benefits/core-benefits-framework/stocks-ecosystems/ecosystem-definitions.md">BASIN Ecosystems</a></summary>
 
 * cultivated-developed.basin&#x20;
 * urban-open-space.basin&#x20;
@@ -22,6 +26,7 @@ A PURPOSE in the BASIN Protocol are either **a ecosystem type, ecosystem service
 * polar-alpine.basin&#x20;
 * deserts.basin&#x20;
 * subterranean.basin
+* marine-systems.ensurance
 
 </details>
 
