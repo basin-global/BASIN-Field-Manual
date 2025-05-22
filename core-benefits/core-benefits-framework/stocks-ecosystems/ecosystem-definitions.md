@@ -1,6 +1,6 @@
 # Ecosystem Definitions
 
-These 14 definitions standardize and unify the language across [different frameworks](../../../appendix/land-cover-classification-and-ecosystem-typologies/) to facilitate investment in ecosystem restoration and conservation as part of the BASIN Protocol.
+These 15 definitions standardize and unify the language across [different frameworks](../../../appendix/land-cover-classification-and-ecosystem-typologies/) to facilitate investment in ecosystem restoration and conservation as part of the BASIN Protocol.
 
 ## Cultivated & Developed
 
@@ -57,3 +57,7 @@ Deserts are ecosystems characterized by low rainfall, extremes of temperature, a
 ## Subterranean
 
 Subterranean ecosystems encompass a range of underground habitats, both natural and human-made.
+
+## Marine Systems
+
+**Marine** ecosystems encompass ocean waters and seafloor beyond coastal transitional zones, including continental shelf, pelagic, and deep-sea environments. These ecosystems are structured by gradients in light, pressure, temperature, and nutrients, supporting diverse communities from coral reefs and kelp forests to abyssal plains. They provide critical habitat for marine biodiversity and regulate global climate.
