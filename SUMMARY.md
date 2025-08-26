@@ -32,7 +32,7 @@
 * [⚡ Critical Infrastructure](ensurance/critical-infrastructure.md)
 * [Natural Asset Ensurance](ensurance/natural-asset-ensurance.md)
 * [Ensurance Examples](ensurance/ensurance-examples.md)
-* [📓 ENSURANCE BINDER](https://binder.basin.global/)
+* [📓 ENSURANCE BINDER](https://binder.ensurance.app/)
 
 ## Protocol
 
@@ -45,11 +45,6 @@
 * [Model](protocol/model.md)
 * [Incentives](protocol/incentives/README.md)
   * [CO2 PPM - Keeling Curve](protocol/incentives/co2-ppm-keeling-curve.md)
-* [Contracts](protocol/contracts/README.md)
-  * [.BASIN](protocol/contracts/.basin.md)
-  * [STREAMS](protocol/contracts/streams.md)
-  * [FLOW](protocol/contracts/flow/README.md)
-    * [Lifestyle & Fashion](protocol/contracts/flow/lifestyle-and-fashion.md)
 
 ## Dossier
 
@@ -57,9 +52,8 @@
 * [Manifesto](dossier/manifesto.md)
 * [Soundtrack](dossier/soundtrack.md)
 * [Contact](dossier/contact.md)
-* [CONFLUENCE](http://confluence.basin.global/)
+* [ENSURANCE](https://ensurance.app/)
 * [DISPATCHES](https://dispatches.basin.global/)
-* [BINDER](https://binder.basin.global/)
 * [Other Projects](dossier/other-projects/README.md)
   * [RWA x ReFi Report](dossier/other-projects/rwa-x-refi-report.md)
   * [Core Benefits Label](dossier/other-projects/core-benefits-label.md)

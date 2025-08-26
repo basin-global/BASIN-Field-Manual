@@ -10,4 +10,4 @@ The complexity of these interconnected challenges necessitates the collaboration
 
 ## Revenue, Business & Operational Model
 
-To this end, the BASIN Protocol revenue, business, and operational model is specifically designed to incentivize such cooperation. This model was detailed in our [v1 documentation](https://github.com/basin-global/docs-archived/tree/main/how) and has evolved into [Ecological Ensurance](broken-reference).
+To this end, the BASIN Protocol revenue, business, and operational model is specifically designed to incentivize such cooperation. This model was detailed in our [v1 documentation](https://github.com/basin-global/docs-archived/tree/main/how) and has evolved into [Natural Asset Ensurance](../ensurance/natural-asset-ensurance.md).

@@ -1,5 +1,9 @@
 # The BASIN Protocol
 
+{% hint style="success" %}
+This has all been incorporated into Natural Asset Ensurance at [ensurance.app](https://ensurance.app/) - go there for most up to date version.
+{% endhint %}
+
 BASIN protects, restores and stewards nature and ecosystems in perpetuity.&#x20;
 
 ## Protocol&#x20;
@@ -15,7 +19,7 @@ The BASIN Protocol is actively run by its members. &#x20;
 All members have a .basin account which serves as the confluence to stocks and flows of natural capital, the people, and underlying real assets that make up the protocol. BASIN Accounts can be managed individually or collectively and can hold almost any type of value.
 
 {% hint style="info" %}
-What does this mean technically? See the [Contracts](../contracts/) section for details.
+What does this mean technically? See the [Contracts](broken-reference) section for details.
 {% endhint %}
 
 ## BASIN STREAM FLOWS

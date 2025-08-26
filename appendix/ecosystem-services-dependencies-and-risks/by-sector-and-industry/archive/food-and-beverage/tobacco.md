@@ -42,7 +42,7 @@ The Swiss Re BES Index further highlights critical ecological dependencies acros
 {% hint style="success" %}
 ## Reduce Risk & Increase Resilience
 
-One-click investment into nature-related risks and dependencies for sectors and industries can be done via [BASIN FLOWS](../../../../../protocol/contracts/flow/#custom-bundles).
+One-click investment into nature-related risks and dependencies for sectors and industries can be done via [BASIN FLOWS](broken-reference).
 {% endhint %}
 
 ## Applied to Core Benefits & Ecosystems
