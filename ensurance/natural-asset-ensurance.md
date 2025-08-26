@@ -1,16 +1,20 @@
-# Ecological Ensurance
+# Natural Asset Ensurance
 
-Ecological Ensurance, by BASIN, ensures that the RealValue of Natural Capital is protected and stewarded in perpetuity.
+Natural Asset Ensurance, by BASIN, ensures that the RealValue of Natural Capital is protected and stewarded in perpetuity. (fka Ecological Ensurance)
 
 ## Insurance v. Ensurance
 
-Unlike traditional insurance, which is retroactive, Ensurance is proactive, focusing on the protection ecosystems from day one while providing a definitive path to permanent protection along with restoration and stewardship funding. Ensurance Policies and Certificates of Ensurance are issued for specific Ecological Polygons (EPs) as part of the BASIN Protocol.
+Unlike traditional insurance, which is retroactive, Ensurance is proactive, focusing on the protection ecosystems from day one while providing a definitive path to permanent protection along with restoration and stewardship funding. Ensurance Policies and Certificates of Ensurance are issued for specific Natural Assets.
 
 ## How it Works
 
-Utilizing the RealValue of Natural Capital framework for specific ecological polygons (properties), Ecological Ensurance 1) properly values the stocks and flows of natural capital, 2) triangulates the relational value of the underlying real asset and natural capital value, and 3) outputs a range of financially viable options that ensure the immediate and permanent protection and regeneration of the EP.
+Utilizing the RealValue of Natural Capital framework for specific ecological polygons (properties), Natural Asset Ensurance 1) properly values the stocks and flows of natural capital, 2) triangulates the relational value of the underlying real asset and natural capital value, and 3) outputs a range of financially viable options that ensure the immediate and permanent protection and stewardship of the Natural Asset.
 
-## Key components of Ecological Ensurance
+{% hint style="success" %}
+Natural Asset Ensurance is now active at [ensurance.app](https://ensurance.app/)! Please go there for most up to date info.
+{% endhint %}
+
+## Key components of Natural Asset Ensurance
 
 ### Ensurance
 

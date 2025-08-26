@@ -26,7 +26,7 @@ The Swiss Re BES Index further highlights critical ecological dependencies acros
 
 ### Manufacturing Sector Ecological Dependencies
 
-#### **Overall Risk Rating: **<mark style="color:red;">**HIGH**</mark>
+#### **Overall Risk Rating:&#x20;**<mark style="color:red;">**HIGH**</mark>
 
 | Ecosystem Service            | Dependency Rating (0-1) |
 | ---------------------------- | ----------------------- |

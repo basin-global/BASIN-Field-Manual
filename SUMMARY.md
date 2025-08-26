@@ -30,7 +30,7 @@
 ## Ensurance
 
 * [⚡ Critical Infrastructure](ensurance/critical-infrastructure.md)
-* [Ecological Ensurance](ensurance/ecological-ensurance.md)
+* [Natural Asset Ensurance](ensurance/natural-asset-ensurance.md)
 * [Ensurance Examples](ensurance/ensurance-examples.md)
 * [📓 ENSURANCE BINDER](https://binder.basin.global/)
 
